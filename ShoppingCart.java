@@ -23,6 +23,9 @@ public class ShoppingCart {
                 case "momo" ->
                     120;
 
+                case "Coffee" ->
+                    127;
+
                 default ->
                     0;
             };
