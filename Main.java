@@ -88,6 +88,10 @@ public class Main {
             2. Input
             3. Algorithm (Formula)
             4. Output
+
+            -----------------
+            to print entire line of string use nextLine()
+            to take only one word use next()
              */
             scanner.close();
         } catch (Exception e) {
